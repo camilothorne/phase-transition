@@ -1,7 +1,8 @@
 '''
 Created on Nov 16, 2015
 
-@author: camilo
+@author: camilo thorne
+
 '''
 
 class MyClass(object):
