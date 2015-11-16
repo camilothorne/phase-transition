@@ -1,7 +1,7 @@
 '''
 Created on Nov 16, 2015
 
-@author: Camilo Thorne
+@author: Camilo Thorne ...
 
 '''
 
